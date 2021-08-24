@@ -1,0 +1,68 @@
+{
+    "combinations": {
+        "people": [
+            "Larsenv",
+            "KcrPl",
+            "Artuto",
+            "Snappy",
+            "Dark14",
+            "dhtdht020"
+        ],
+        "sites": [
+            "RiiConnect24 Discord",
+            "RiiConnect24 Twitter",
+            "OSC Discord",
+            "OSC Twitter",
+            "LibertyLand"
+        ],
+        "things": [
+            "VPS",
+            "bot",
+            "website"
+        ],
+        "projects": [
+            "File Maker",
+            "RiiTag",
+            "Mail-Go",
+            "Mail-PHP",
+            "OSC",
+            "oscdl",
+            "RSSMii"
+        ],
+        "action": [
+            "deletes all channels",
+            "bans everyone",
+            "pings @everyone",
+            "plays fart sounds"
+        ],
+        "numbers": [
+            "69",
+            "420",
+            "9000",
+            "30000"
+        ]
+    },
+    "sentences": [
+        "[people] farts in the [things] and breaks the [sites]",
+        "[people] bans [people]; the [sites] complains",
+        "[people] creates a [things] that [action]",
+        "[people] complains that [people] broke [things]",
+        "[sites] forks [projects]",
+        "[sites] forks [projects], causing drama",
+        "[sites] forks [projects], [people] fills a DMCA takedown notice.",
+        "[people] updates the batch patcher, reaching [numbers] lines",
+        "[people] posts in [sites] that [people] called someone stupid"
+    ],
+    "social": [
+        "Hot off the press!",
+        "This just in!",
+        "Fresh drama!",
+        "Breaking news!",
+        "Drama alert!",
+        "Trending on Twitter!",
+        "Trending on Hacker News!",
+        "Trending on Reddit!",
+        "Hot topic!",
+        "Things just got interesting..."
+    ]
+}

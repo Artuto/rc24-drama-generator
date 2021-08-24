@@ -1,0 +1,16 @@
+{
+  "name": "rc24-drama-generator",
+  "version": "1.0.0",
+  "description": "Generates drama around the RC24 community",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write '**/*.{js,css,json,md}'",
+    "dev": "wrangler dev"
+  },
+  "author": "Artuto",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}

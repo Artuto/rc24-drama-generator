@@ -1,0 +1,6 @@
+name = "rc24-drama-generator"
+type = "webpack"
+account_id = "6b88cd8b2f510d5beea66a28be41ac52"
+workers_dev = true
+route = ""
+zone_id = ""

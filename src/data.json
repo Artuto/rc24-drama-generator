@@ -2,23 +2,35 @@
     "combinations": {
         "people": [
             "Larsenv",
-            "KcrPl",
+            "KcrPL",
             "Artuto",
             "Snappy",
             "Dark14",
-            "dhtdht020"
+            "dhtdht020",
+            "Sketch",
+            "Antonio86420",
+            "iDroid",
+            "DismissedGuy",
+            "Voaly"
         ],
         "sites": [
-            "RiiConnect24 Discord",
-            "RiiConnect24 Twitter",
-            "OSC Discord",
-            "OSC Twitter",
-            "LibertyLand"
+            "RiiConnect24",
+            "the RiiConnect24 Discord",
+            "the RiiConnect24 Twitter",
+            "OSC",
+            "the OSC Discord",
+            "the OSC Twitter",
+            "LibertyLand",
+            "WiiLink",
+            "Disconnect24",
+            "GBATemp"
         ],
         "things": [
             "VPS",
             "bot",
-            "website"
+            "website",
+            "service",
+            "Wii U"
         ],
         "projects": [
             "File Maker",
@@ -33,7 +45,10 @@
             "deletes all channels",
             "bans everyone",
             "pings @everyone",
-            "plays fart sounds"
+            "plays fart sounds",
+            "starts a Riivolution",
+            "spammed Mail-Go with registrations",
+            "stole and sold an exploit"
         ],
         "numbers": [
             "69",
@@ -43,15 +58,17 @@
         ]
     },
     "sentences": [
-        "[people] farts in the [things] and breaks the [sites]",
-        "[people] bans [people]; the [sites] complains",
-        "[people] creates a [things] that [action]",
+        "[people] farts in the [things] and breaks [sites]",
+        "[people] bans [people]; [sites] complains",
+        "[people] created a [things] that [action]",
         "[people] complains that [people] broke [things]",
         "[sites] forks [projects]",
         "[sites] forks [projects], causing drama",
         "[sites] forks [projects], [people] fills a DMCA takedown notice.",
         "[people] updates the batch patcher, reaching [numbers] lines",
-        "[people] posts in [sites] that [people] called someone stupid"
+        "[people] posts in [sites] that [people] called someone stupid",
+        "[people] posts in [sites] that [site] [action]",
+        "[people] posts in [sites] that [people] is a selfish, self-motivated person who will marginalise thousands of [things] owners in his userbase for no other reason than to confirm his own opinion, one that is rooted in a childish defence of an older system desperately trying to provide advantages in the face of a newer one",
     ],
     "social": [
         "Hot off the press!",

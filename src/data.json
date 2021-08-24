@@ -22,7 +22,8 @@
             "bananajoe",
             "Gloom",
             "Peter0x44",
-            "Snoot"
+            "Snoot",
+            "oscie"
         ],
         "sites": [
             "RiiConnect24",
@@ -39,14 +40,16 @@
             "r/WiiHacks",
             "WiiNet",
             "Kaeru",
-            "Wiimmfi"
+            "Wiimmfi",
+            "Striim"
         ],
         "things": [
             "VPS",
             "bot",
             "website",
             "service",
-            "Wii U"
+            "Wii U",
+            "Wii",
         ],
         "projects": [
             "File-Maker",
@@ -95,6 +98,8 @@
         "[people] updates the batch version of RC24 Patcher, reaching [numbers] lines",
         "[people] posts in [sites] that [people] called someone [namecalling]",
         "[people] posts in [sites] that [sites] [action]",
+        "[sites] creates a better version of [projects], which gets [sites] angry, and causes drama about their [things]",
+        "[people] makes fun of [people], callimg then [namecalling], causing a lockdown in [sites] over so much arguing",
         "[people] posts in [sites] that [people] is a selfish, self-motivated person who will marginalise thousands of [things] owners in his userbase for no other reason than to confirm his own opinion, one that is rooted in a childish defence of an older system desperately trying to provide advantages in the face of a newer one"
     ],
     "social": [

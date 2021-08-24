@@ -8,10 +8,21 @@
             "Dark14",
             "dhtdht020",
             "Sketch",
-            "Antonio86420",
+            "Antonio231102",
             "iDroid",
             "DismissedGuy",
-            "Voaly"
+            "Voaly",
+            "Snare",
+            "Eri Kiorai",
+            "David",
+            "Raphael",
+            "bendevnull",
+            "Void",
+            "jordiisepic",
+            "bananajoe",
+            "Gloom",
+            "Peter0x44",
+            "Snoot"
         ],
         "sites": [
             "RiiConnect24",
@@ -23,7 +34,12 @@
             "LibertyLand",
             "WiiLink",
             "Disconnect24",
-            "GBATemp"
+            "GBAtemp",
+            "MarioCube",
+            "r/WiiHacks",
+            "WiiNet",
+            "Kaeru",
+            "Wiimmfi"
         ],
         "things": [
             "VPS",
@@ -33,12 +49,12 @@
             "Wii U"
         ],
         "projects": [
-            "File Maker",
+            "File-Maker",
             "RiiTag",
             "Mail-Go",
             "Mail-PHP",
             "OSC",
-            "oscdl",
+            "osc-dl",
             "RSSMii"
         ],
         "action": [
@@ -47,14 +63,25 @@
             "pings @everyone",
             "plays fart sounds",
             "starts a Riivolution",
-            "spammed Mail-Go with registrations",
-            "stole and sold an exploit"
+            "spammed the mail server with registrations",
+            "stole and sold an exploit",
+            "bricks Wiis"
         ],
         "numbers": [
             "69",
             "420",
             "9000",
             "30000"
+        ],
+        "namecalling": [
+            "a rart",
+            "the r word",
+            "the n word",
+            "stupid",
+            "a poopyhead",
+            "a furry",
+            "a clown",
+            "3.5 inches tall"
         ]
     },
     "sentences": [
@@ -64,9 +91,9 @@
         "[people] complains that [people] broke [things]",
         "[sites] forks [projects]",
         "[sites] forks [projects], causing drama",
-        "[sites] forks [projects], [people] fills a DMCA takedown notice.",
-        "[people] updates the batch patcher, reaching [numbers] lines",
-        "[people] posts in [sites] that [people] called someone stupid",
+        "[sites] forks [projects], [people] files a DMCA takedown notice.",
+        "[people] updates the batch version of RC24 Patcher, reaching [numbers] lines",
+        "[people] posts in [sites] that [people] called someone [namecalling]",
         "[people] posts in [sites] that [sites] [action]",
         "[people] posts in [sites] that [people] is a selfish, self-motivated person who will marginalise thousands of [things] owners in his userbase for no other reason than to confirm his own opinion, one that is rooted in a childish defence of an older system desperately trying to provide advantages in the face of a newer one"
     ],

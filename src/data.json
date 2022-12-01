@@ -23,7 +23,8 @@
             "Gloom",
             "Peter0x44",
             "Snoot",
-            "oscie"
+            "oscie",
+            "kurb"
         ],
         "sites": [
             "RiiConnect24",
@@ -49,7 +50,9 @@
             "website",
             "service",
             "Wii U",
-            "Wii"
+            "Wii",
+            "WAD file"
+  
         ],
         "projects": [
             "File-Maker",
@@ -58,7 +61,8 @@
             "Mail-PHP",
             "OSC",
             "osc-dl",
-            "RSSMii"
+            "RSSMii",
+            "Pretendo"
         ],
         "action": [
             "deletes all channels",
@@ -68,13 +72,15 @@
             "starts a Riivolution",
             "spammed the mail server with registrations",
             "stole and sold an exploit",
-            "bricks Wiis"
+            "bricks Wiis",
+            "talks about politics"
         ],
         "numbers": [
             "69",
             "420",
             "9000",
             "30000"
+            
         ],
         "namecalling": [
             "a rart",
@@ -84,7 +90,8 @@
             "a poopyhead",
             "a furry",
             "a clown",
-            "3.5 inches tall"
+            "3.5 inches tall",
+            "racist"
         ]
     },
     "sentences": [
@@ -101,7 +108,8 @@
         "[sites] creates a better version of [projects], which gets [sites] angry, and causes drama about their [things]",
         "[people] makes fun of [people], calling them [namecalling], causing a lockdown in [sites] over so much arguing",
         "[people] posts in [sites] that [people] is a selfish, self-motivated person who will marginalise thousands of [things] owners in his userbase for no other reason than to confirm his own opinion, one that is rooted in a childish defence of an older system desperately trying to provide advantages in the face of a newer one"
-    ],
+        "[people] beats [people] in Mario Kart Wii, allegedy called the loser [namecalling]"
+     ],
     "social": [
         "Hot off the press!",
         "This just in!",
@@ -113,5 +121,6 @@
         "Trending on Reddit!",
         "Hot topic!",
         "Things just got interesting..."
+        "Extra, extra!"
     ]
 }
